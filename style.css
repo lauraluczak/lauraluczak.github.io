@@ -20,6 +20,10 @@ img{
         font-style: normal;
         font-size:xx-large
 }
-      
+
+div{
+        max-width: 600px; 
+        margin: auto
+}
 
 
